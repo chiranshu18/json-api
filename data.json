@@ -1,1 +1,237 @@
-{ "message": "Hello from JSON API" }
+{
+  "isError": false,
+  "message": "Successfully Done!!",
+  "data": {
+    "categories": [
+      { "id": "mens-singles", "label": "Men Singles" },
+      { "id": "womens-singles", "label": "Women Singles" },
+      { "id": "mens-doubles", "label": "Men Doubles" },
+      { "id": "womens-doubles", "label": "Women Doubles" },
+      { "id": "mixed-doubles", "label": "Mixed Doubles" }
+    ],
+    "groupStage": {
+      "mens-singles": [
+        {
+          "groupName": "Group A",
+          "teams": [
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            },
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            },
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            },
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "womens-singles": [
+        {
+          "groupName": "Group A",
+          "teams": [
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "mens-doubles": [
+        {
+          "groupName": "Group A",
+          "teams": [
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                },
+                {
+                  "name": {
+                    "name": "player2",
+                    "shortName": "player2",
+                    "compactName": "pl2"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "womens-doubles": [
+        {
+          "groupName": "Group A",
+          "teams": [
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                },
+                {
+                  "name": {
+                    "name": "player2",
+                    "shortName": "player2",
+                    "compactName": "pl2"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "mixed-doubles": [
+        {
+          "groupName": "Group A",
+          "teams": [
+            {
+              "matches": 12,
+              "wins": 11,
+              "losses": 1,
+              "points": 22,
+              "setsWon": 33,
+              "aggregrate": 39,
+              "recentMatchesDetails": ["W", "L"],
+              "playingEntities": [
+                {
+                  "name": {
+                    "name": "player1",
+                    "shortName": "player1",
+                    "compactName": "pl1"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                },
+                {
+                  "name": {
+                    "name": "player2",
+                    "shortName": "player2",
+                    "compactName": "pl2"
+                  },
+                  "logo": "https://d1i8kmyez1731n.cloudfront.net/product-images/Ronaldo.webp",
+                  "id": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
